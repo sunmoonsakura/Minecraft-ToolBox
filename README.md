@@ -12,3 +12,4 @@
 |MinecraftToolBox|V0.0.0.1|[下载](https://github.com/sunmoonsakura/Minecraft-ToolBox/releases/download/MinecraftToolBox/MinecraftToolBox.zip)|
 |MinecraftToolBox|V0.0.0.2|咕咕咕中|
 ## Minecraft ToolBox使用指南
+演示视频 [点击查看](https://www.bilibili.com/video/BV17e4y1Z77b/?share_source=copy_web&vd_source=97d620e39cec9913df802fca86e64f11)
