@@ -9,7 +9,7 @@
 ## 下载
 |文件名|版本|下载|
 |----|----|----|
-|MinecraftToolBox|V0.0.0.1|[下载](https://github.com/sunmoonsakura/Minecraft-ToolBox/releases/download/MinecraftToolBox/MinecraftToolBox.zip)|
-|MinecraftToolBox|V0.0.0.2|咕咕咕中|
+|MinecraftToolBox|构建版本01|[下载](https://github.com/sunmoonsakura/Minecraft-ToolBox/releases/download/MinecraftToolBox/MinecraftToolBox.zip)|
+|MinecraftToolBox|构建版本02|咕咕咕中|
 ## Minecraft ToolBox使用指南
 演示视频：[点击查看](https://www.bilibili.com/video/BV17e4y1Z77b/?share_source=copy_web&vd_source=97d620e39cec9913df802fca86e64f11)
