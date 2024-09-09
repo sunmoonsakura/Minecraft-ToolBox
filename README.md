@@ -7,6 +7,8 @@
 3.emmmm敬请期待...
 
 4.由于部分NBT功能改为物品堆叠组件已转向新软件，本软件已弃坑
+
+5.[点击前往物品堆叠组件工具](https://github.com/sunmoonsakura/Minecraft-Item-Stack-Component-Tool)
 ## 下载
 |文件名|版本|下载|
 |----|----|----|
